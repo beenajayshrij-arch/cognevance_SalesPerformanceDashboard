@@ -1,0 +1,6 @@
+Raw rows: 2025
+Duplicate rows removed: 23
+Trimmed spaces and standardised Category casing
+Missing before: {'Segment': 12, 'City': 15, 'Sales': 10}
+Missing after: 0
+Clean rows: 2002
